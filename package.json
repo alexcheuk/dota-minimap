@@ -1,0 +1,17 @@
+{
+  "name": "dotes-minimap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "date-fns": "^2.16.1",
+    "form-data": "^3.0.0",
+    "jimp": "^0.16.1",
+    "screencapture": "^0.3.1",
+    "screenshot-desktop": "^1.12.2"
+  },
+  "bin": {
+    "dota-minimap": "./index.js"
+  }
+}
